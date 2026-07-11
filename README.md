@@ -1,2 +1,2 @@
 # scripts
-bluefin-scripts and powershell scripts I've done 
+bash, bluefin, and powershell scripts I've done 
